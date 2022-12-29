@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam-oss&label=Profile%20views&color=0e75b6&style=flat" alt="sanyam-oss" /> </p>
 
-- 👋 Hi, I’m @Sanyam-oss, I'm second year undergrad at IIITD (3 I's).
+- 👋 Hi, I’m @Sanyam-oss, I'm third year undergrad at IIITD (3 I's).
 - 👀 I’m interested in Competitive programming and Deep Learning.
 - 🌱 I’m also currently learning web development and will like to contribute to some cool project ideas.
 - 📫 To reach me, mail at sanyam20116@iiitd.ac.in
