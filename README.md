@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanyam-oss, I'm second year undergrad at IIITD (3 I's).
-- 👀 I’m interested in Competitive programming and Machine Learning.
+- 👀 I’m interested in Competitive programming and Deep Learning.
 - 🌱 I’m also currently learning web development and will like to contribute to some cool project ideas.
 - 📫 To reach me, mail at sanyam20116@iiitd.ac.in
 
