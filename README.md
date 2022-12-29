@@ -1,29 +1,18 @@
-- 👋 Hi, I’m @Sanyam-oss, I'm second year undergrad at IIITD (3 I's).
-- 👀 I’m interested in Competitive programming and Deep Learning.
-- 🌱 I’m also currently learning web development and will like to contribute to some cool project ideas.
-- 📫 To reach me, mail at sanyam20116@iiitd.ac.in
+<h1 align="center">Hi 👋, I'm Sanyam Goyal</h1>
+<h3 align="center">Computer science Undergraduate student at IIIT, Delhi (3 I's)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam-oss&label=Profile%20views&color=0e75b6&style=flat" alt="sanyam-oss" /> </p>
 
-<!---
-###  🚀 **GitHub Overview**
-<div>
-  <a href="https://github.com/Aaryan-R-S">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanyam-oss&show_icons=true&theme=synthwave&line_height=27&icon_color=b8aec8&custom_title=Sanyam's GitHub Stats" alt="Sanyam's github stats"/>
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/sanyam_2508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanyam_2508" height="30" width="40" /></a>
+</p>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<div>
-  <a href="https://github.com/Sanyam-oss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam-oss&theme=synthwave&langs_count=10&icon_color=b8aec8&text_color=ffffff&custom_title=Top Languages&layout=compact" />
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyam-oss&show_icons=true&locale=en&layout=compact" alt="sanyam-oss" /></p>
 
-<br>
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyam-oss&show_icons=true&locale=en" alt="sanyam-oss" /></p>
 
-<!---
-Sanyam-oss/Sanyam-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-oss&" alt="sanyam-oss" /></p>
